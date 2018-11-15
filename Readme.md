@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/EntitiesLookupWithEditing/Form1.cs) (VB: [Form1.vb](./VB/EntitiesLookupWithEditing/Form1.vb))
+* [Program.cs](./CS/EntitiesLookupWithEditing/Program.cs) (VB: [Program.vb](./VB/EntitiesLookupWithEditing/Program.vb))
+<!-- default file list end -->
 # How to bind a lookup column to entities (Entity Framework)
 
 
