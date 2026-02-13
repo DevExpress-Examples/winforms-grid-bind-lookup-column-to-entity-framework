@@ -20,7 +20,7 @@ This example demonstrates how to configure a lookup column in the WinForms Grid 
 * [Binding to Entity Framework Core](https://docs.devexpress.com/WindowsForms/118049/common-features/data-binding/binding-to-entity-framework-core)
 * [Data Source Configuration Wizard](https://docs.devexpress.com/WindowsForms/16633/common-features/data-binding/data-source-configuration-wizard)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-bind-lookup-column-to-entity-framework&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-bind-lookup-column-to-entity-framework&~~~was_helpful=no)
 
